@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getstamngment/State%20Management/StateManagementReactive.dart';
+import 'package:getstamngment/State%20Management/Reactive.dart';
 
 void main() {
   runApp(const MyApp());
